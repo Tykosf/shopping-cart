@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.125f000c.chunk.css",
-    "main.js": "/static/js/main.a382b695.chunk.js",
-    "main.js.map": "/static/js/main.a382b695.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.539956b1.chunk.css": "/static/css/2.539956b1.chunk.css",
-    "static/js/2.da475db4.chunk.js": "/static/js/2.da475db4.chunk.js",
-    "static/js/2.da475db4.chunk.js.map": "/static/js/2.da475db4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.44e7874f142ca4a102b7b914b5d768e3.js": "/precache-manifest.44e7874f142ca4a102b7b914b5d768e3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.539956b1.chunk.css.map": "/static/css/2.539956b1.chunk.css.map",
-    "static/css/main.125f000c.chunk.css.map": "/static/css/main.125f000c.chunk.css.map",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/shopping-cart/static/css/main.125f000c.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.72cf62eb.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.72cf62eb.chunk.js.map",
+    "runtime~main.js": "/shopping-cart/static/js/runtime~main.60a85d2f.js",
+    "runtime~main.js.map": "/shopping-cart/static/js/runtime~main.60a85d2f.js.map",
+    "static/css/2.2be2bcc8.chunk.css": "/shopping-cart/static/css/2.2be2bcc8.chunk.css",
+    "static/js/2.da475db4.chunk.js": "/shopping-cart/static/js/2.da475db4.chunk.js",
+    "static/js/2.da475db4.chunk.js.map": "/shopping-cart/static/js/2.da475db4.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "precache-manifest.19e36620fbf1e33dda038e8db44d2723.js": "/shopping-cart/precache-manifest.19e36620fbf1e33dda038e8db44d2723.js",
+    "service-worker.js": "/shopping-cart/service-worker.js",
+    "static/css/2.2be2bcc8.chunk.css.map": "/shopping-cart/static/css/2.2be2bcc8.chunk.css.map",
+    "static/css/main.125f000c.chunk.css.map": "/shopping-cart/static/css/main.125f000c.chunk.css.map",
+    "static/media/semantic.min.css": "/shopping-cart/static/media/outline-icons.ef60a4f6.woff"
   }
 }
