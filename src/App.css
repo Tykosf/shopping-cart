@@ -1,33 +1,80 @@
-.App {
-  text-align: center;
+body{
+    margin-top: 20px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.menu{
+    margin-bottom: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.currency_icon{
+    color: green;
 }
 
-.App-link {
-  color: #61dafb;
+.extra,.content{
+    color: black !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ui.text.menu{
+    display: flex;
+    justify-content: center !important;
+}
+.ui.text.menu,.items{
+    padding-right: 20px;
+}
+
+
+@media screen and (max-width: 990px){
+    div.description {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 780px){
+    .ui.four.cards>.card {
+        width: calc(33% - 1.5em);
+    }
+}
+
+@media screen and (max-width: 675px){
+    .ui.four.cards>.card {
+        width: calc(50% - 1.5em);
+    }
+    .ui.text.menu, .items {
+        padding-right: 0;
+    }
+    .ui.text.menu {
+        flex-wrap: wrap;
+    }
+
+}
+
+
+@media screen and (max-width: 500px){
+    .ui.four.cards>.card {
+        width: calc(75% - .5em);
+    }
+    .ui.four.cards {
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 440px){
+    .ui.menu > div.item:first-child {
+        display: none;
+    }
+    .right.menu {
+        margin: 0 !important;
+    }
+    a.item {
+        justify-content: center !important;
+    }
+    .right.menu {
+        
+        justify-content: center;
+        width: 308px;
+    }
+    .ui.menu .item:before {
+        background: none;
+    }
 }

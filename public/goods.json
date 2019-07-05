@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "date": "19 Травня 2015 року",    
+        "title": "The Witcher 3: Wild Hunt",
+        "descr": "Відьмак 3: Дике Полювання - комп'ютерна гра в жанрі action / RPG, розроблена польської студією CD Projekt RED по мотивах серії романів «Відьмак» польського письменника Анджея Сапковського.",
+        "image": "https://images.wallpaperscraft.ru/image/the_witcher_3_wild_hunt_vedmak_3_dikaya_okhota_zaklyuchitelnaya_chast_pc_playstation_4_xbox_one_93155_1920x1200.jpg",
+        "price": 1000
+    },
+    {
+        "id": 1,
+        "date": "11 Листопада 2014 року",
+        "title": "Assassin's Creed: Unity",
+        "descr": "Assassin's Creed Unity - комп'ютерна гра в жанрі action-adventure, яку розробила компанія Ubisoft для платформ PC, PlayStation 4 і Xbox One.",
+        "image": "http://getwallpapers.com/wallpaper/full/1/d/6/914606-cool-assassins-creed-unity-wallpapers-1920x1200-lockscreen.jpg",
+        "price": 300
+    },
+    {
+        "id": 2,
+        "date": "11 листопада 2011 року",
+        "title": "TES Skyrim",
+        "descr": "The Elder Scrolls V: Skyrim - мультиплатформенна комп'ютерна рольова гра з відкритим світом, розроблена студією Bethesda Game Studios і випущена компанією Bethesda Softworks.",
+        "image": "https://www.digiseller.ru/preview/311971/p1_30428145443380.JPG",
+        "price": 500
+    },
+    {
+        "id": 3,
+        "date": "11 жовтня 2016 року",
+        "title": "Gears of War 4",
+        "descr": "Gears of War 4 - продовження в серії ігор Gears of War для платформ Xbox One і Windows 10. Гра створювалася силами новоспеченої студії The Coalition і видавця Microsoft Studios.",
+        "image": "https://wallpapercave.com/wp/wtdcnt1.jpg",
+        "price": 1250
+    },
+    {
+        "id": 4,
+        "date": "15 Лютого 2019 року" ,
+        "title": "Metro Exodus",
+        "descr": "Metro Exodus - комп'ютерна гра в жанрі шутера від першої особи, розроблена українською компанією 4A Games і видана Deep Silver.",
+        "image": "https://3dnews.ru/assets/external/illustrations/2019/02/12/982683/04.jpg",
+        "price": 645
+    }
+]
